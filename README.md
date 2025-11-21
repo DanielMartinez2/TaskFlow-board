@@ -58,7 +58,7 @@ npm run dev
 ---
 
 ## Project Structure
-
+```bash
 taskflow-board/
   ├─ src/
   │  ├─ components/
@@ -70,6 +70,8 @@ taskflow-board/
   ├─ index.html
   ├─ package.json
   └─ README.md
+```
+
 ---
 
 ## License
